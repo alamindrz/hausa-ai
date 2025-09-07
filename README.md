@@ -77,7 +77,7 @@ Here's how a simple post containing code-switching would be stored to make it us
   "tone": "low",
   "created_at": "2025-09-06T14:32:00Z"
 }
-
+```
 ⚙️ Technical Architecture
  * Backend: Django with Django REST Framework for robust API development.
  * Frontend: React (or Next.js) for a dynamic user interface.
