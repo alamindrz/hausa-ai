@@ -92,6 +92,8 @@ The core of this project is its automated data pipeline. Every user action funne
  * Storage: The original content and its structured, annotated data are stored in a PostgreSQL database.
  * Dataset Generation: The pipeline automatically generates clean, organized datasets for various AI tasks (e.g., Hausa-only corpus, code-switched data, audio-text pairs).
  * Model Training: These datasets are used to train and improve Hausa-specific AI models.
+ * 
+ 
 🚀 Features & Roadmap
 Phase 1: MVP (Minimum Viable Product)
  * User authentication.
