@@ -1,4 +1,4 @@
-
+Hausa Language AI Blogging Platform
 ✅ Project Vision
 
 ✅ Why Hausa (with real-world impacts: bots, Qur’an, education, etc.)
